@@ -25,10 +25,10 @@ The tool reuses the CSA Matter Test Harness frontend, backend, and reverse-proxy
 
 | Document                                          | What's inside                                                                                  |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **[SETUP.md](docs/SETUP.md)**                          | First-time setup: hardware, SD-card flashing, assembly, install, and first start.              |
-| **[USER_MANUAL.md](docs/USER_MANUAL.md)**              | Operating guide: GUI walkthrough, test parameters, updating, troubleshooting.                  |
-| **[ARCHITECTURE.md](docs/ARCHITECTURE.md)**            | Internal design: deployment stack, actuator layering, test collections, hardware integration.  |
-| **[CONTRIBUTION.md](CONTRIBUTION.md)**            | How to propose changes, the Tiger Team review process, and PR requirements.                    |
+| **[SETUP.md](docs/SETUP.md)**                     | First-time setup: hardware, SD-card flashing, assembly, install, and first start.              |
+| **[USER_MANUAL.md](docs/USER_MANUAL.md)**         | Operating guide: GUI walkthrough, test parameters, updating, troubleshooting.                  |
+| **[ARCHITECTURE.md](docs/ARCHITECTURE.md)**       | Internal design: deployment stack, actuator layering, test collections, hardware integration.  |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)**            | How to propose changes, the Tiger Team review process, and PR requirements.                    |
 | **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)**      | Community guidelines.                                                                          |
 | **[LICENSE](LICENSE)**                            | Apache 2.0 license terms.                                                                      |
 
