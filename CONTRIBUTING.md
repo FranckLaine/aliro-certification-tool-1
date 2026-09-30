@@ -156,15 +156,14 @@ Aim to make pull requests easy to read both when viewed in a list (title only)
 as well as clear in content within the description.
 
 Pull request guidelines are described in detail
-[here](./docs/contributing/pull_request_guidelines.md)
+[here](https://docs.github.com/en/pull-requests)
 
 ### Review Requirements
 
 #### Documentation Best Practices
 
 Aliro uses Doxygen to markup (or markdown) all C, C++, Objective C, Objective
-C++, Perl, Python, and Java code. Read our
-[Doxygen Best Practices, Conventions, and Style](DOXYGEN DOCs Weblink)
+C++, Perl, Python, and Java code. Read [Doxygen Best Practices, Conventions, and Style](https://www.doxygen.nl/manual/docblocks.html)
 
 #### Submit Pull Request
 
@@ -187,8 +186,8 @@ into master
 
 #### Documentation
 
-Documentation undergoes the same review process as code See the
-[Documentation Style Guide](STYLE GUIDE Weblink)
+Documentation undergoes the same review process as code. See the
+[Documentation Style Guide](https://www.doxygen.nl/manual/docblocks.html)
 for more information on how to author and format documentation for contribution.
 
 ## Merge Processes
